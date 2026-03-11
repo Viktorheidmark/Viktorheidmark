@@ -21,13 +21,13 @@ I enjoy developing AI agents, automation tools and data systems that solve real 
 
 ## 🧠 Projects
 
-### AI Agent Systems**  
+### AI Agent Systems  
 Developed AI agent workflows that automate information processing, analysis and business tasks using LLM-based systems.
 
-### AI Voice Assistant**  
+### AI Voice Assistant
 Built an AI-powered voice assistant for automated user interaction and task handling.
 
-### Data Analysis Systems**  
+### Data Analysis Systems 
 Created data-driven analysis tools using Python and SQL for extracting insights from structured data.
 
 ---
